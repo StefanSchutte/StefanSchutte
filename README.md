@@ -9,7 +9,7 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 ## PROJECTS:
 
 My Digital Resume - https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume
-[![GitHub](https://img.shields.io/badge/GitHub-https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume-blue.svg)](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume)
+[![GitHub](https://img.shields.io/badge/GitHub-StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume-blue.svg)](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume)
   My personal Resume, where I used HTML and CSS to create my own personalized CV.
 
 BookConnect - https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone
