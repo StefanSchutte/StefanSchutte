@@ -28,10 +28,10 @@ WebStorm
 
 CONTACT ME:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefan-schutte-668578292/)
-[![Contact](https://img.shields.io/badge/Contact-green?style=for-the-badge)](tel:+27672658798)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefan.schutte/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPkJAECROt6Wqdns2yD4msw)
- 
+[![Email](https://img.shields.io/badge/Email-stefanschutte@icloud.com-blue?style=for-the-badge)](mailto:stefanschutte@icloud.com)
+
 **StefanSchutte/StefanSchutte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
