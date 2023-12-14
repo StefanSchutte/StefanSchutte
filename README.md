@@ -43,4 +43,5 @@ WebStorm
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefan.schutte/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPkJAECROt6Wqdns2yD4msw)
 [![Email](https://img.shields.io/badge/Email-stefanschutte@icloud.com-blue?style=for-the-badge)](mailto:stefanschutte@icloud.com)
+
 "Empowering Progress Through Versatility and Passion"
