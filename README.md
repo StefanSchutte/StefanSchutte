@@ -1,6 +1,6 @@
-##About
+## About
 
-I an an entry-level Software Developer looking for a position where I can learn on the job. I am currently studying Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
+I am an entry-level Software Developer looking for a position where I can learn on the job. I am currently studying Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
 
 I earned my B.A. in Communication Science with a focus on Media Studies and Journalism in 2015 from the University of the Free State. After university, I worked in the fruit industry and also taught English as a foreign language.
 
