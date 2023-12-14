@@ -28,7 +28,7 @@ WebStorm
 
 CONTACT ME:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefan-schutte-668578292/)
-[![Contact](https://img.shields.io/badge/Contact-%2B1%20(555)%20123--4567-green?style=for-the-badge)](tel:+27672658798)
+[![Contact](https://img.shields.io/badge/Contact-green?style=for-the-badge)](tel:+27672658798)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefan.schutte/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPkJAECROt6Wqdns2yD4msw)
  
