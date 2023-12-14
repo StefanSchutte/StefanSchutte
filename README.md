@@ -17,6 +17,8 @@ BookConnect - https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_
   An app where I used JavaScript to apply required functionality.
 
 ## SKILLS:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+Programming Languages: <i class="fab fa-js"></i> JavaScript, <i class="fab fa-python"></i> Python
 HTML
 CSS
 JavaScript
