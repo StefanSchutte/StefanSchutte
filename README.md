@@ -1,3 +1,5 @@
+### Software Development student graduating in Dec 2023 looking for a junior web development role
+
 ## About:
 
 I am an entry-level Software Developer looking for a position where I can learn on the job. I am currently studying Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
@@ -11,11 +13,13 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 My Digital Resume - https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume
 
   My personal Resume, where I used HTML and CSS to create my own personalized CV.
+  Deployed: https://stefanschutte-digital-resume.netlify.app/
 
 BookConnect - https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone
 
   An app where I used JavaScript to apply required functionality.
-
+  Deployed site: https://bookconnect-app-js.netlify.app/
+  
 Restaurantly - https://github.com/StefanSchutte/Restaurant_Info_App
 
   An app where you can search for information on restaurants. I created it while learning Nuxt and do not own this project, it was used for learning.
