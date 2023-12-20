@@ -1,6 +1,6 @@
 #### Software Development student graduating in Dec 2023 looking for a junior web development role
 
-## As an enthusiastic and dedicated entry-level Software Developer, I bring a unique blend of academic excellence, diverse professional experiences, and a relentless commitment to continuous learning. My foundation in Communication Science, coupled with practical skills honed at CodeSpace Academy and Udemy courses, positions me as a versatile individual ready to make a meaningful impact in the dynamic field of software development.
+## **As an enthusiastic and dedicated entry-level Software Developer, I bring a unique blend of academic excellence, diverse professional experiences, and a relentless commitment to continuous learning. My foundation in Communication Science, coupled with practical skills honed at CodeSpace Academy and Udemy courses, positions me as a versatile individual ready to make a meaningful impact in the dynamic field of software development.**
 
 ### Table of Contents
 - [About](#about)
