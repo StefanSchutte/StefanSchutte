@@ -1,3 +1,7 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefan-schutte-668578292/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefan.schutte/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPkJAECROt6Wqdns2yD4msw)
+[![Email](https://img.shields.io/badge/Email-stefanschutte@icloud.com-blue?style=for-the-badge)](mailto:stefanschutte@icloud.com)
 #### Software Development student graduating in Dec 2023 looking for a junior web development role
 
 ## **As an enthusiastic and dedicated entry-level Software Developer, I bring a unique blend of academic excellence, diverse professional experiences, and a relentless commitment to continuous learning. My foundation in Communication Science, coupled with practical skills honed at CodeSpace Academy and Udemy courses, positions me as a versatile individual ready to make a meaningful impact in the dynamic field of software development.**
@@ -34,14 +38,14 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 ### SKILLS:
 
-HTML
-CSS
-JavaScript
-Vue
-Git/Github
-Prettier
-VSCode
-WebStorm
+-HTML
+-CSS
+-JavaScript
+-Vue
+-Git/Github
+-Prettier
+-VSCode
+-WebStorm
 
 
 ### CONTACT ME:
