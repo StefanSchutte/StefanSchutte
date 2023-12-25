@@ -34,6 +34,11 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
   
 [Restaurantly](https://github.com/StefanSchutte/Restaurant_Info_App)
 
+[Mapty](https://github.com/StefanSchutte/Mapty)
+
+  An app that tracks a users running/cycling activities. 
+  [Deployed site](https://mapty-stafan.netlify.app/)
+
   An app where you can search for information on restaurants. I created it while learning Nuxt and do not own this project, it was used for learning.
 
 ### SKILLS:
