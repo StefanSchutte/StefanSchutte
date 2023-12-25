@@ -38,14 +38,14 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 ### SKILLS:
 
--HTML
--CSS
--JavaScript
--Vue
--Git/Github
--Prettier
--VSCode
--WebStorm
+- HTML
+- CSS
+- JavaScript
+- Vue
+- Git/Github
+- Prettier
+- VSCode
+- WebStorm
 
 
 ### CONTACT ME:
