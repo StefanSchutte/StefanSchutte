@@ -41,6 +41,10 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
   An app that tracks a users running/cycling activities. 
   [Deployed site](https://mapty-stafan.netlify.app/)
 
+  [Quote Generator](https://github.com/StefanSchutte/quote-generator)
+  This quote generator app is a simple web application designed to display and share random quotes.
+  [Deployed site](https://stefans-quote-generator.netlify.app/)
+
 ### SKILLS:
 
 - HTML
