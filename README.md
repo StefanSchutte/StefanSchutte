@@ -23,24 +23,24 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 ### PROJECTS:
 | [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/)|
 
-| [BookConnect](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone) | An app where I used JavaScript to apply required functionality.| [Deployed site](https://bookconnect-app-js.netlify.app/)|
+| [BookConnect](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone)                   | An app where I used JavaScript to apply required functionality.| [Deployed site](https://bookconnect-app-js.netlify.app/)|
 
-| [Restaurantly](https://github.com/StefanSchutte/Restaurant_Info_App) | An app where you can search for information on restaurants. I created it while learning Nuxt and do not own this project, it was used for learning.||
+| [Restaurantly](https://github.com/StefanSchutte/Restaurant_Info_App)                                                   | An app where you can search for information on restaurants. I created it while learning Nuxt and do not own this project, it was used for learning. ||
 
-| [Mapty](https://github.com/StefanSchutte/Mapty) | An app that tracks a users running/cycling activities. | [Deployed site](https://mapty-stafan.netlify.app/) |
+| [Mapty](https://github.com/StefanSchutte/Mapty)                                                                        | An app that tracks a users running/cycling activities. | [Deployed site](https://mapty-stafan.netlify.app/) |
 
-| [Quote Generator](https://github.com/StefanSchutte/quote-generator) | This quote generator app is a simple web application designed to display and share random quotes. | [Deployed site](https://stefans-quote-generator.netlify.app/) |
+| [Quote Generator](https://github.com/StefanSchutte/quote-generator)                                                    | This quote generator app is a simple web application designed to display and share random quotes. | [Deployed site](https://stefans-quote-generator.netlify.app/) |
 
-| [Unsplash API Infinite Scroll](https://github.com/StefanSchutte/Unsplash_API_Infinite_Scroll_/tree/master) | This is a simple web application that leverages the Unsplash API to display an infinite scroll of random images. The application dynamically loads more images as the user scrolls down the page. | [Deployed Site](https://stefan-unsplash-api-infinite-scroll.netlify.app/) |
+| [Unsplash API Infinite Scroll](https://github.com/StefanSchutte/Unsplash_API_Infinite_Scroll_/tree/master)             | This is a simple web application that leverages the Unsplash API to display an infinite scroll of random images. The application dynamically loads more images as the user scrolls down the page. | [Deployed Site](https://stefan-unsplash-api-infinite-scroll.netlify.app/) |
 
-| [NASA API Pictures](https://github.com/StefanSchutte/NASA_API_Pictures_) | This web application utilizes the NASA API to showcase a curated collection of astronomy-related images, including the NASA Picture of the Day. Users can explore these images, add their favorites to a personalized collection, and remove them as needed.| [Deployed SIte](https://nasa-api-pictures-apod.netlify.app/)|
+| [NASA API Pictures](https://github.com/StefanSchutte/NASA_API_Pictures_)                                               | This web application utilizes the NASA API to showcase a curated collection of astronomy-related images, including the NASA Picture of the Day. Users can explore these images, add their favorites to a personalized collection, and remove them as needed.      | [Deployed SIte](https://nasa-api-pictures-apod.netlify.app/) |
 
 ### SKILLS:
 
-| - HTML |
-| - CSS  |
+- HTML 
+- CSS 
 - JavaScript
-| - Vue  |
+- Vue  
 - Git/Github
 - Prettier
 - VSCode
