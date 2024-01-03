@@ -41,6 +41,8 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 | [Bookmark App](https://github.com/StefanSchutte/Bookkeeper_Application)             | Bookmark App is a simple web application that allows users to manage and save bookmarks for their favorite websites. Users can add, delete, and visit bookmarks with ease. | [Deployed Site](https://bookmark-app-stefan.netlify.app/) |
 
+| [Paint Clone](https://github.com/StefanSchutte/Paint_Clone)             | A simple web-based painting application that allows users to draw, erase, change brush sizes, and manipulate colors. The application provides features such as saving and loading the canvas from local storage, clearing the canvas, and downloading the created artwork as an image file. | [Deployed Site](https://paint-clone-stefan.netlify.app/) |
+
 ### SKILLS:
 
 - HTML 
