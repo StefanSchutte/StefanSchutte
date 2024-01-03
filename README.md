@@ -37,10 +37,10 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 ### SKILLS:
 
-- HTML
-- CSS
+| - HTML |
+| - CSS  |
 - JavaScript
-- Vue
+| - Vue  |
 - Git/Github
 - Prettier
 - VSCode
