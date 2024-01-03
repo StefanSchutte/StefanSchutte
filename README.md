@@ -56,4 +56,4 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPkJAECROt6Wqdns2yD4msw)
 [![Email](https://img.shields.io/badge/Email-stefanschutte@icloud.com-blue?style=for-the-badge)](mailto:stefanschutte@icloud.com)
 
-"Empowering Progress Through Versatility and Passion"
+**_"Empowering Progress Through Versatility and Passion"_**
