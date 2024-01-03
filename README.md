@@ -39,6 +39,8 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 | [Kanban Board Drag and Drop](https://github.com/StefanSchutte/Kanban_Board)             | This project is a simple Kanban Board implemented using HTML, CSS, and JavaScript, featuring drag-and-drop functionality for managing tasks across different stages. The board is divided into columns representing the task status: Backlog, Progress, Complete, and On-hold. | [Deployed Site](https://kanban-board-drag-n-drop.netlify.app/) |
 
+| [Bookmark App](https://github.com/StefanSchutte/Bookkeeper_Application)             | Bookmark App is a simple web application that allows users to manage and save bookmarks for their favorite websites. Users can add, delete, and visit bookmarks with ease. | [Deployed Site](https://bookmark-app-stefan.netlify.app/) |
+
 ### SKILLS:
 
 - HTML 
