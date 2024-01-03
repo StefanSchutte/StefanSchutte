@@ -35,6 +35,8 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 | [NASA API Pictures](https://github.com/StefanSchutte/NASA_API_Pictures_)                                               | This web application utilizes the NASA API to showcase a curated collection of astronomy-related images, including the NASA Picture of the Day. Users can explore these images, add their favorites to a personalized collection, and remove them as needed.      | [Deployed SIte](https://nasa-api-pictures-apod.netlify.app/) |
 
+| [Rock Spock Game](https://github.com/StefanSchutte/Rock_Paper_Scissors_Lizard_Spock_Game)             | This web application allows users to play the popular "Rock Paper Scissors Lizard Spock" game against the computer. The game features an engaging interface with icons representing different choices, and the winner is determined based on the classic rules of the game. | [Deployed Site](https://spock-rock-game-stefan.netlify.app/) |
+
 ### SKILLS:
 
 - HTML 
