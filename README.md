@@ -51,6 +51,11 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 This is a simple web application that leverages the Unsplash API to display an infinite scroll of random images. The application dynamically loads more images as the user scrolls down the page.
 [Deployed Site](https://stefan-unsplash-api-infinite-scroll.netlify.app/)
 
+[NASA API Pictures](https://github.com/StefanSchutte/NASA_API_Pictures_)
+
+This web application utilizes the NASA API to showcase a curated collection of astronomy-related images, including the NASA Picture of the Day. Users can explore these images, add their favorites to a personalized collection, and remove them as needed.
+[Deployed SIte](https://nasa-api-pictures-apod.netlify.app/)
+
 ### SKILLS:
 
 - HTML
