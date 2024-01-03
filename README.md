@@ -42,8 +42,14 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
   [Deployed site](https://mapty-stafan.netlify.app/)
 
   [Quote Generator](https://github.com/StefanSchutte/quote-generator)
+  
   This quote generator app is a simple web application designed to display and share random quotes.
   [Deployed site](https://stefans-quote-generator.netlify.app/)
+
+[Unsplash API Infinite Scroll](https://github.com/StefanSchutte/Unsplash_API_Infinite_Scroll_/tree/master)
+
+This is a simple web application that leverages the Unsplash API to display an infinite scroll of random images. The application dynamically loads more images as the user scrolls down the page.
+[Deployed Site](https://stefan-unsplash-api-infinite-scroll.netlify.app/)
 
 ### SKILLS:
 
