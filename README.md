@@ -37,6 +37,8 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 | [Rock Spock Game](https://github.com/StefanSchutte/Rock_Paper_Scissors_Lizard_Spock_Game)             | This web application allows users to play the popular "Rock Paper Scissors Lizard Spock" game against the computer. The game features an engaging interface with icons representing different choices, and the winner is determined based on the classic rules of the game. | [Deployed Site](https://spock-rock-game-stefan.netlify.app/) |
 
+| [Kanban Board Drag and Drop](https://github.com/StefanSchutte/Kanban_Board)             | This project is a simple Kanban Board implemented using HTML, CSS, and JavaScript, featuring drag-and-drop functionality for managing tasks across different stages. The board is divided into columns representing the task status: Backlog, Progress, Complete, and On-hold. | [Deployed Site](https://kanban-board-drag-n-drop.netlify.app/) |
+
 ### SKILLS:
 
 - HTML 
