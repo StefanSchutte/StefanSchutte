@@ -43,6 +43,8 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 | [Paint Clone](https://github.com/StefanSchutte/Paint_Clone)             | A simple web-based painting application that allows users to draw, erase, change brush sizes, and manipulate colors. The application provides features such as saving and loading the canvas from local storage, clearing the canvas, and downloading the created artwork as an image file. | [Deployed Site](https://paint-clone-stefan.netlify.app/) |
 
+| [Bankist](https://github.com/StefanSchutte/Bankist_app)             | This project is a minimalist banking website called Bankist. It is a static website created using HTML, CSS, and JavaScript. The website showcases various sections, including features, operations, testimonials, and a sign-up section. | [Deployed Site](https://bankist-dom-stefan.netlify.app/?) |
+
 ### SKILLS:
 
 - HTML 
