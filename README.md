@@ -25,7 +25,12 @@
 - [Projects](#projects)
 - [Skills](#skills)
 - [Contact Me](#contact-me)
+
+
+
 ---
+
+
 ### About:
 
 I am an entry-level Software Developer looking for a position where I can learn on the job. I am currently studying Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
