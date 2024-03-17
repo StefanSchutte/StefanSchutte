@@ -1,4 +1,4 @@
-#### **Software Development student graduating in Feb 2024 looking for a junior web development role.**
+#### **Software Development student graduating in April 2024 looking for a junior web development role.**
 
 
 ---
