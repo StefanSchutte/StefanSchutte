@@ -80,7 +80,13 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 - HTML 
 - CSS 
 - JavaScript
-- Vue  
+- TypeScript
+- Vue
+- React
+- Vite
+- Create React App
+- Supabase
+- tailwind css 
 - Git/Github
 - Prettier
 - VSCode
