@@ -48,9 +48,9 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 ### PROJECTS:
 | [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/) |
 
-| [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/) |
-
 | [Podcast App](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupA2_Stefan-Schutte_DWACapstone)                   | My final capstone project for CodeSpace, where I used React to build a Padcast App. | [Deployed site](https://podcasted-podcast-app.netlify.app/) |
+
+| [Book Connect](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone) | Interactive Web App where i applied JavaScript to achieve required functionality..| [Deployed site](https://bookconnect-app-js.netlify.app/) |
 
 | [Restaurantly](https://github.com/StefanSchutte/Restaurant_Info_App)                                                   | An app where you can search for information on restaurants. I created it while learning Nuxt and do not own this project, it was used for learning. | |
 
