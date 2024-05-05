@@ -46,6 +46,9 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 
 ### PROJECTS:
+
+| [My Website](https://github.com/StefanSchutte/My_Website_Stefan_Schutte) | My personal Website.| [Deployed site](https://my-website-stefan-schutte.netlify.app/) |
+
 | [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/) |
 
 | [Podcast App](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupA2_Stefan-Schutte_DWACapstone)                   | My final capstone project for CodeSpace, where I used React to build a Padcast App. | [Deployed site](https://podcasted-podcast-app.netlify.app/) |
