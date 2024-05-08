@@ -98,7 +98,6 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 - WebStorm
 - Figma/Figjam
 - ESLint
-- Prettier
 
 
 ---
