@@ -33,11 +33,15 @@
 
 ### About:
 
-I am an entry-level Software Developer looking for a position where I can learn on the job. I completed a certificate in Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
+I am an entry-level Software Developer. 
+
+I am currently working as a Software Developer at Meshed360, where I’m expanding my skills in a real-world development environment. This experience has strengthened my understanding of development practices and allowed me to build my knowledge of C#, ASP.NET, and MS SQL in practical settings. I am eager to continue growing and to contribute meaningfully to any project or team.
+
+I completed a certificate in Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
 
 I earned my B.A. in Communication Science with a focus on Media Studies and Journalism in 2015 from the University of the Free State. After university, I worked in the fruit industry and also taught English as a foreign language.
 
-I am ready for a challenge and eager to prove myself. I am seeking experience in the software development industry and believe that I would be an asset to any business because I am willing to go above and beyond. I believe life is about experiences, and I want to gain as much as possible while learning everything I can. I strongly feel that my work becomes the center of my life, and therefore, I am looking for a challenge that will allow me to define myself within it.
+I am ready for a challenge and eager to prove myself. 
 
 
 
@@ -47,7 +51,7 @@ I am ready for a challenge and eager to prove myself. I am seeking experience in
 
 ### PROJECTS:
 
-| [My Website](https://github.com/StefanSchutte/My_Website_Stefan_Schutte) | My personal Website.| [Deployed site](https://my-website-stefan-schutte.netlify.app/) |
+| [My Website](https://github.com/StefanSchutte/My_Website_Stefan_Schutte) | My personal Website.| [Deployed site](https://my-website-stefan-schutte.netlify.app) |
 
 | [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/) |
 
