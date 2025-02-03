@@ -84,25 +84,32 @@ I am ready for a challenge and eager to prove myself.
 
 
 
-### SKILLS:
+### Tech Stack:
 
-- HTML 
-- CSS 
-- JavaScript
-- TypeScript
-- Vue
-- React
-- Vite
-- Create React App
-- Supabase
-- tailwind css 
-- Git/Github
-- Prettier
-- VSCode
-- WebStorm
-- Figma/Figjam
-- ESLint
+#### Languages:
+![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Frameworks/Libraries:
+![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/ANGULAR-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Other:
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/NETLIFY-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vite](https://img.shields.io/badge/VITE-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### UI/UX Design:
+![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
