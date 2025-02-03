@@ -35,7 +35,7 @@
 
 I am an entry-level Software Developer. 
 
-I am currently working as a Software Developer at Meshed360, where I’m expanding my skills in a real-world development environment. This experience has strengthened my understanding of development practices and allowed me to build my knowledge of C#, ASP.NET, and MS SQL in practical settings. I am eager to continue growing and to contribute meaningfully to any project or team.
+I worked as a Software Developer at Meshed360, where I expanded my skills in a real-world development environment. This experience has strengthened my understanding of development practices and allowed me to build my knowledge of C#, ASP.NET, and MS SQL in a practical settings. I am eager to continue growing and to contribute meaningfully to any project or team.
 
 I completed a certificate in Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
 
