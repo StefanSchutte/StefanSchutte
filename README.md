@@ -21,12 +21,11 @@
 
 
 ### Table of Contents
-- [About](#about)
-- [Projects](#projects)
-- [Tech Stack](#tech-stack)
-- [Contact Me](#contact-me)
 
-
+[![About](https://img.shields.io/badge/About_Me-282A36?style=for-the-badge)](#about)
+[![Projects](https://img.shields.io/badge/Projects-282A36?style=for-the-badge)](#projects)
+[![Skills](https://img.shields.io/badge/Skills-282A36?style=for-the-badge)](#skills)
+[![Contact](https://img.shields.io/badge/Contact-282A36?style=for-the-badge)](#contact-me)
 
 ---
 
