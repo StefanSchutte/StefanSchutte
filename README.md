@@ -67,34 +67,6 @@ I am ready for a challenge and eager to prove myself.
 | **Bookmark App** | Bookmark App is a simple web application that allows users to manage and save bookmarks for their favorite websites. Users can add, delete, and visit bookmarks with ease. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Bookkeeper_Application) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bookmark-app-stefan.netlify.app/) |
 | **Paint Clone** | A simple web-based painting application that allows users to draw, erase, change brush sizes, and manipulate colors. The application provides features such as saving and loading the canvas from local storage, clearing the canvas, and downloading the created artwork as an image file. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML Canvas](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Paint_Clone) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://paint-clone-stefan.netlify.app/) |
 | **Bankist** | This project is a minimalist banking website called Bankist. It is a static website created using HTML, CSS, and JavaScript. The website showcases various sections, including features, operations, testimonials, and a sign-up section. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Bankist_app) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bankist-dom-stefan.netlify.app/?) |
-| [My Website](https://github.com/StefanSchutte/My_Website_Stefan_Schutte) | My personal Website.| [Deployed site](https://my-website-stefan-schutte.netlify.app) |
-
-| [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/) |
-
-| [Podcast App](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupA2_Stefan-Schutte_DWACapstone)                   | My final capstone project for CodeSpace, where I used React to build a Padcast App. | [Deployed site](https://podcasted-podcast-app.netlify.app/) |
-
-| [Book Connect](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone) | Interactive Web App where i applied JavaScript to achieve required functionality..| [Deployed site](https://bookconnect-app-js.netlify.app/) |
-
-| [Restaurantly](https://github.com/StefanSchutte/Restaurant_Info_App)                                                   | An app where you can search for information on restaurants. I created it while learning Nuxt and do not own this project, it was used for learning. | |
-
-| [Mapty](https://github.com/StefanSchutte/Mapty)                                                                        | An app that tracks a users running/cycling activities. | [Deployed site](https://mapty-stafan.netlify.app/) |
-
-| [Quote Generator](https://github.com/StefanSchutte/quote-generator)                                                    | This quote generator app is a simple web application designed to display and share random quotes. | [Deployed site](https://stefans-quote-generator.netlify.app/) |
-
-| [Unsplash API Infinite Scroll](https://github.com/StefanSchutte/Unsplash_API_Infinite_Scroll_/tree/master)             | This is a simple web application that leverages the Unsplash API to display an infinite scroll of random images. The application dynamically loads more images as the user scrolls down the page. | [Deployed Site](https://stefan-unsplash-api-infinite-scroll.netlify.app/) |
-
-| [NASA API Pictures](https://github.com/StefanSchutte/NASA_API_Pictures_)                                               | This web application utilizes the NASA API to showcase a curated collection of astronomy-related images, including the NASA Picture of the Day. Users can explore these images, add their favorites to a personalized collection, and remove them as needed.      | [Deployed SIte](https://nasa-api-pictures-apod.netlify.app/) |
-
-| [Rock Spock Game](https://github.com/StefanSchutte/Rock_Paper_Scissors_Lizard_Spock_Game)             | This web application allows users to play the popular "Rock Paper Scissors Lizard Spock" game against the computer. The game features an engaging interface with icons representing different choices, and the winner is determined based on the classic rules of the game. | [Deployed Site](https://spock-rock-game-stefan.netlify.app/) |
-
-| [Kanban Board Drag and Drop](https://github.com/StefanSchutte/Kanban_Board)             | This project is a simple Kanban Board implemented using HTML, CSS, and JavaScript, featuring drag-and-drop functionality for managing tasks across different stages. The board is divided into columns representing the task status: Backlog, Progress, Complete, and On-hold. | [Deployed Site](https://kanban-board-drag-n-drop.netlify.app/) |
-
-| [Bookmark App](https://github.com/StefanSchutte/Bookkeeper_Application)             | Bookmark App is a simple web application that allows users to manage and save bookmarks for their favorite websites. Users can add, delete, and visit bookmarks with ease. | [Deployed Site](https://bookmark-app-stefan.netlify.app/) |
-
-| [Paint Clone](https://github.com/StefanSchutte/Paint_Clone)             | A simple web-based painting application that allows users to draw, erase, change brush sizes, and manipulate colors. The application provides features such as saving and loading the canvas from local storage, clearing the canvas, and downloading the created artwork as an image file. | [Deployed Site](https://paint-clone-stefan.netlify.app/) |
-
-| [Bankist](https://github.com/StefanSchutte/Bankist_app)             | This project is a minimalist banking website called Bankist. It is a static website created using HTML, CSS, and JavaScript. The website showcases various sections, including features, operations, testimonials, and a sign-up section. | [Deployed Site](https://bankist-dom-stefan.netlify.app/?) |
-
 
 ---
 
