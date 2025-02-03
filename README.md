@@ -51,6 +51,33 @@ I am ready for a challenge and eager to prove myself.
 
 ### PROJECTS:
 
+### Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|------------|------------|-------|
+| **Personal Website** | My portfolio website showcasing my skills and projects | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/My_Website_Stefan_Schutte) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-website-stefan-schutte.netlify.app) |
+| **Podcast App** | Capstone project for CodeSpace - A full-featured podcast streaming application | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupA2_Stefan-Schutte_DWACapstone) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://podcasted-podcast-app.netlify.app/) |
+| **Book Connect** | Interactive web app for managing and discovering books | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://bookconnect-app-js.netlify.app/) |
+
+### Other Projects
+
+<details>
+<summary>Click to expand more projects</summary>
+
+| Project | Description | Tech Stack | Links |
+|---------|------------|------------|-------|
+| **Restaurantly** | Restaurant information and discovery app built with Nuxt | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Restaurant_Info_App) |
+| **Mapty** | Fitness tracking app with map integration | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Mapty) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://mapty-stafan.netlify.app/) |
+| **Quote Generator** | Random quote generator with sharing capabilities | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/quote-generator) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://stefans-quote-generator.netlify.app/) |
+| **NASA API Pictures** | NASA APOD viewer with favorites functionality | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/API-0080FF?style=flat-square&logo=api&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/NASA_API_Pictures_) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://nasa-api-pictures-apod.netlify.app/) |
+| **Rock Spock Game** | Interactive game with computer opponent | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Rock_Paper_Scissors_Lizard_Spock_Game) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://spock-rock-game-stefan.netlify.app/) |
+| **Kanban Board** | Drag-and-drop task management board | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Kanban_Board) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://kanban-board-drag-n-drop.netlify.app/) |
+| **Paint Clone** | Web-based drawing application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML Canvas](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Paint_Clone) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://paint-clone-stefan.netlify.app/) |
+| **Bankist** | Minimalist banking website showcase | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Bankist_app) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://bankist-dom-stefan.netlify.app/?) |
+
+</details>
+
+
 | [My Website](https://github.com/StefanSchutte/My_Website_Stefan_Schutte) | My personal Website.| [Deployed site](https://my-website-stefan-schutte.netlify.app) |
 
 | [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/) |
