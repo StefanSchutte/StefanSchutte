@@ -23,7 +23,7 @@
 ### Table of Contents
 - [About](#about)
 - [Projects](#projects)
-- [Skills](#skills)
+- [Tech Stack](#tech-stack)
 - [Contact Me](#contact-me)
 
 
