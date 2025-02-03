@@ -49,24 +49,11 @@ I am ready for a challenge and eager to prove myself.
 
 
 
-### PROJECTS:
-
+### Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|------------|------------|-------|
-| **Personal Website** | My personal Website. | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [![GitHub
-](
-https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white
-)
-](https://github.com/StefanSchutte/my-portfolio-resume-project) 
-[
-![Live
-](
-https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white
-)
-](https://my-website-stefan-schutte.netlify.app) 
-|
-
+| **Personal Website** | My personal Website. | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/my-portfolio-resume-project) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-website-stefan-schutte.netlify.app) |
 | **Digital Resume** | My personal Resume, where I used HTML and CSS to create my own personalized CV. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://stefanschutte-digital-resume.netlify.app/) |
 | **Podcast App** | My final capstone project for CodeSpace, where I used React to build a Podcast App. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupA2_Stefan-Schutte_DWACapstone) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://podcasted-podcast-app.netlify.app/) |
 | **Book Connect** | Interactive Web App where I applied JavaScript to achieve required functionality. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupB2_Stefan_Schutte_IWACapstone) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bookconnect-app-js.netlify.app/) |
@@ -80,7 +67,6 @@ https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor
 | **Bookmark App** | Bookmark App is a simple web application that allows users to manage and save bookmarks for their favorite websites. Users can add, delete, and visit bookmarks with ease. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Bookkeeper_Application) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bookmark-app-stefan.netlify.app/) |
 | **Paint Clone** | A simple web-based painting application that allows users to draw, erase, change brush sizes, and manipulate colors. The application provides features such as saving and loading the canvas from local storage, clearing the canvas, and downloading the created artwork as an image file. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML Canvas](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Paint_Clone) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://paint-clone-stefan.netlify.app/) |
 | **Bankist** | This project is a minimalist banking website called Bankist. It is a static website created using HTML, CSS, and JavaScript. The website showcases various sections, including features, operations, testimonials, and a sign-up section. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/StefanSchutte/Bankist_app) [![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://bankist-dom-stefan.netlify.app/?) |
-
 | [My Website](https://github.com/StefanSchutte/My_Website_Stefan_Schutte) | My personal Website.| [Deployed site](https://my-website-stefan-schutte.netlify.app) |
 
 | [My Digital Resume](https://github.com/StefanSchutte/STESCH302_FTO2308_GroupC_Stefan-Schutte_ITW_Final_Digital_Resume) | My personal Resume, where I used HTML and CSS to create my own personalized CV.| [Deployed site](https://stefanschutte-digital-resume.netlify.app/) |
