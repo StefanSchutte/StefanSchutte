@@ -1,4 +1,4 @@
-#### **Software Development graduate looking for a junior web development role.**
+#### **Junior Software Developer.**
 
 
 ---
