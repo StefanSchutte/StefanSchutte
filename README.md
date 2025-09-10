@@ -11,7 +11,7 @@
 
 
 
-## As an enthusiastic and dedicated entry-level Software Developer, I bring a unique blend of academic excellence, diverse professional experiences, and a relentless commitment to continuous learning. My foundation in Communication Science, coupled with practical skills honed at CodeSpace Academy and Udemy courses, positions me as a versatile individual ready to make a meaningful impact in the dynamic field of software development.
+## As an enthusiastic and dedicated Software Developer, I bring a unique blend of academic excellence, diverse professional experiences, and a relentless commitment to continuous learning. My foundation in Communication Science, coupled with practical skills honed at CodeSpace Academy and Udemy courses, positions me as a versatile individual ready to make a meaningful impact in the dynamic field of software development.
 
 
 
@@ -19,31 +19,11 @@
 
 ### Table of Contents
 
-[![About](https://img.shields.io/badge/About_Me-282A36?style=for-the-badge)](#about)
 [![Projects](https://img.shields.io/badge/Projects-282A36?style=for-the-badge)](#projects)
 [![Tech Stack](https://img.shields.io/badge/Tech_Stack-282A36?style=for-the-badge)](#tech-stack)
 [![Contact](https://img.shields.io/badge/Contact-282A36?style=for-the-badge)](#contact-me)
 
 ---
-
-
-### About:
-
-I am an entry-level Software Developer. 
-
-I worked as a Software Developer at Meshed360, where I expanded my skills in a real-world development environment. This experience has strengthened my understanding of development practices and allowed me to build my knowledge of C#, ASP.NET, and MS SQL in a practical settings. I am eager to continue growing and to contribute meaningfully to any project or team.
-
-I completed a certificate in Software Development at CodeSpace Academy. I have also completed many courses on Udemy and plan to continue expanding my knowledge through learning and practical application. My studies have prepared me to be able to learn rapidly and I am committed to learning new technologies and languages.
-
-I earned my B.A. in Communication Science with a focus on Media Studies and Journalism in 2015 from the University of the Free State. After university, I worked in the fruit industry and also taught English as a foreign language.
-
-I am ready for a challenge and eager to prove myself. 
-
-
-
----
-
-
 
 ### Projects
 
